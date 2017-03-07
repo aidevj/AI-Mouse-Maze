@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{40241665-F7A7-4B89-C0CF-9EC63A2A6F85}") = "MouseMaze", "Assembly-CSharp-firstpass.csproj", "{678D0140-D26C-EAE1-76F9-B3CE74270B93}"
+EndProject
+Project("{40241665-F7A7-4B89-C0CF-9EC63A2A6F85}") = "MouseMaze", "Assembly-CSharp.csproj", "{31FEB6D0-CF56-634E-9EAB-2477D0D45813}"
+EndProject
+Project("{40241665-F7A7-4B89-C0CF-9EC63A2A6F85}") = "MouseMaze", "Assembly-CSharp-Editor-firstpass.csproj", "{036AE375-6656-FCF8-F6CA-387DF722E348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678D0140-D26C-EAE1-76F9-B3CE74270B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678D0140-D26C-EAE1-76F9-B3CE74270B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678D0140-D26C-EAE1-76F9-B3CE74270B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678D0140-D26C-EAE1-76F9-B3CE74270B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FEB6D0-CF56-634E-9EAB-2477D0D45813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FEB6D0-CF56-634E-9EAB-2477D0D45813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FEB6D0-CF56-634E-9EAB-2477D0D45813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FEB6D0-CF56-634E-9EAB-2477D0D45813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036AE375-6656-FCF8-F6CA-387DF722E348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036AE375-6656-FCF8-F6CA-387DF722E348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036AE375-6656-FCF8-F6CA-387DF722E348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036AE375-6656-FCF8-F6CA-387DF722E348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
